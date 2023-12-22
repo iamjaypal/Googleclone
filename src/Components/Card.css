@@ -1,0 +1,16 @@
+.item-box{
+    display: flex;
+    gap : 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: absolute;
+    padding: 40px;
+    background-color: aliceblue;
+}
+.item{
+    cursor: pointer;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
